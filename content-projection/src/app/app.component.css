@@ -1,0 +1,14 @@
+.card-header {
+  background-color: #f7f7f7;
+  padding: 10px;
+}
+
+.card-body {
+  padding: 10px;
+}
+
+.card-footer {
+  background-color: #f7f7f7;
+  padding: 10px;
+  text-align: right;
+}

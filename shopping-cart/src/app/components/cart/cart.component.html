@@ -1,0 +1,7 @@
+<h3>Your Cart</h3>
+<ul>
+  <li *ngFor="let item of items">
+    {{ item.product.name }} - {{ item.quantity }} <button (click)="removeFromCart(item.product.id)">Remove</button>
+  </li>
+</ul>
+<p>Total: {{ total }}</p>

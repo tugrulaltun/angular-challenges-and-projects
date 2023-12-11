@@ -1,0 +1,35 @@
+.todo-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+mat-form-field {
+  width: 100%;
+  margin-right: 8px;
+}
+
+mat-list-item {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+
+.todo-title {
+  flex-grow: 1;
+  margin-left: 8px;
+}
+
+mat-checkbox {
+  margin-right: 8px;
+  flex-shrink: 0;
+}
+
+.todo-completed {
+  text-decoration: line-through;
+  color: #999;
+}
+
+.add-todo-button {
+  margin-right: 16px;
+}

@@ -1,0 +1,14 @@
+<app-card>
+  <div class="card-header">Card Headline</div>
+  <div class="card-body">
+    Card content
+    <ng-container *ngTemplateOutlet="customList"></ng-container>
+  </div>
+  <div class="card-footer">Card sub-content</div>
+</app-card>
+
+<ng-template #customList>
+  <ul>
+    <li *ngFor="let fruit of fruits">{{ fruit }}</li>
+  </ul>
+</ng-template>

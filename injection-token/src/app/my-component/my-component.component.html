@@ -1,0 +1,5 @@
+<p>my-component works! see console logs!</p>
+<div [ngStyle]="{'color': theme.primaryColor, 'font-family': theme.fontFamily}">
+  <p>primary color: {{ theme.primaryColor }}</p>
+  <p [ngStyle]="{'color': theme.accentColor}">font family: {{ theme.fontFamily }}</p>
+</div>
