@@ -1,0 +1,48 @@
+<main class="main">
+  <h1>Hello, {{ title }}</h1>
+  <p>Congratulations! Your app is running. 🎉</p>
+  <p>Current date: {{ currentDate | dateFormatterPipe }}</p>
+  <div>
+    Original Amount: {{ amount }} USD
+  </div>
+  <div>
+    Converted Amount: {{ amount | currencyConverter:conversionRate }} EUR
+  </div>
+  <div *ngFor="let article of articles">
+    <h2>{{ article.title }}</h2>
+    <p>{{ article.summary | truncate:75 }}</p>
+  </div>
+  <div>
+    <p>{{ 'Hello World Angular' | uppercase }}</p>
+  </div>
+  <div *ngFor="let product of products">
+    <h2>{{ product.name }}</h2>
+    <p>Discount: {{ product.discount | percentage }}</p>
+  </div>
+  <input type="text" [(ngModel)]="searchText">
+  <ul>
+    <li *ngFor="let item of items | filterArray:searchText">
+      {{ item }}
+    </li>
+  </ul>
+  <p>{{ 'hello world angular' | capitalize }}</p>
+  <div *ngFor="let item of user | keyValue">
+    <strong>{{ item.key }}:</strong> {{ item.value }}
+  </div>
+  <br>
+  <div>
+    <button (click)="sortBy('price')">Sort by Price</button>
+    <button (click)="sortBy('name')">Sort by Name</button>
+  </div>
+  <ul>
+    <li *ngFor="let product of productList | sortBy:sortField">
+      {{ product.name }} - {{ product.price }} TL
+    </li>
+  </ul>
+  <div>
+    Distance Traveled: {{ distance | distanceConverter:'km' }} km
+    ({{ distance | distanceConverter:'miles' }} mil)
+  </div>
+</main>
+
+<router-outlet></router-outlet>
