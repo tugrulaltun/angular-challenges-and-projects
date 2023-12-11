@@ -1,8 +1,6 @@
 # Angular Challenges & Projects
 
-<p align="center">
-  ![headline](art/headline.png)
-</p>
+![headline](art/headline.png)
 
 ---
 
