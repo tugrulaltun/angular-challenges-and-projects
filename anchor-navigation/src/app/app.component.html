@@ -1,0 +1,20 @@
+<div class="container">
+  <div class="nav-column">
+    <nav>
+      <a [routerLink]="['/section1']"
+         [class.active-link]="activeSection === 'section1'"
+         (click)="setActiveSection('section1')">Section 1</a>
+      <a [routerLink]="['/section2']"
+         [class.active-link]="activeSection === 'section2'"
+         (click)="setActiveSection('section2')">Section 2</a>
+      <a [routerLink]="['/section3']"
+         [class.active-link]="activeSection === 'section3'"
+         (click)="setActiveSection('section3')">Section 3</a>
+
+    </nav>
+  </div>
+
+  <main class="content-column">
+    <router-outlet></router-outlet>
+  </main>
+</div>

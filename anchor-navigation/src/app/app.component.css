@@ -1,0 +1,50 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.container {
+  display: flex;
+}
+
+.nav-column {
+  width: 200px;
+  position: fixed;
+  overflow-y: auto;
+}
+
+.content-column {
+  margin-left: 200px;
+}
+
+nav a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #333;
+}
+
+nav a:hover {
+  background-color: #f0f0f0;
+}
+
+.content-section {
+  padding: 20px;
+  border-bottom: 1px solid #ddd;
+}
+
+.section1 {
+  background-color: #f0f0f0;
+}
+
+.section2 {
+  background-color: #e0e0ff;
+}
+
+.section3 {
+  background-color: #f0e0f0;
+}
+
+.active-link {
+  color: #007bff;
+  font-weight: bold;
+}
