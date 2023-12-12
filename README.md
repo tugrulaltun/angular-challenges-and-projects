@@ -1,6 +1,6 @@
 # Angular Challenges & Projects
 
-![headline](art/headline.png)
+![headline](readme/headline.png)
 
 ---
 
