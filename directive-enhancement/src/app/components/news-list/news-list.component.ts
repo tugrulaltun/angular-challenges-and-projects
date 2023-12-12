@@ -15,5 +15,8 @@ export class NewsListComponent implements OnInit {
 
   ngOnInit(): void {
     this.newsItems = this.newsService.getNews();
+    // setTimeout(() => {
+    //   this.newsItems = [];  // Keep it empty to test the empty case
+    // }, 1000);
   }
 }

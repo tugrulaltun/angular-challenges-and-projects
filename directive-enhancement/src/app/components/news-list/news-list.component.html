@@ -1,4 +1,4 @@
-<div *customFor="let newsItem of newsItems; let i = index; empty: emptyList">
+<div *customFor="let newsItem of newsItems; empty: emptyList">
   <h3>{{ newsItem.title }}</h3>
   <p>{{ newsItem.content }}</p>
   <small>{{ newsItem.date | date }}</small>
