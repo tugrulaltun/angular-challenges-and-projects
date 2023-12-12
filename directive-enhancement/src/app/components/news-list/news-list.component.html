@@ -1,0 +1,6 @@
+<div *customFor="let newsItem of newsItems; let i = index; empty: emptyList">
+  <h3>{{ newsItem.title }}</h3>
+  <p>{{ newsItem.content }}</p>
+  <small>{{ newsItem.date | date }}</small>
+</div>
+<ng-template #emptyList><p>No news available.</p></ng-template>

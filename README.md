@@ -17,3 +17,4 @@ This repository is a curated collection of challenges and project ideas, each cr
 |6 | [anchor-navigation](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/anchor-navigation)|
 |7 | [router-input](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/router-input)|
 |8 | [standalone-components](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/standalone-components)|
+|9 | [directive-enhancement](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/directive-enhancement)|
