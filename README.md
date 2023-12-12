@@ -3,7 +3,8 @@
 ![headline](readme/headline.png)
 
 ---
-
+This repository is a curated collection of challenges and project ideas, each crafted to test and enhance your understanding of Angular, one of the most popular and powerful web application frameworks.
+---
 ### Table of Contents
 
 | No. | Challenges & Projects |
