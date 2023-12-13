@@ -20,3 +20,4 @@ This repository is a curated collection of challenges and project ideas, each cr
 |9 | [directive-enhancement](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/directive-enhancement)|
 |10 | [structural-directive](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/structural-directive)|
 |11 | [wrap-function-pipe](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/wrap-function-pipe)|
+|12 | [customizable-css](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/customizable-css)|

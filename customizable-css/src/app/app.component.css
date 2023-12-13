@@ -1,0 +1,15 @@
+:host {
+  display: block;
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+  padding: 10px;
+}
+
+:host-context(.dark-theme) {
+  background-color: black;
+  color: white;
+}
+
+.example-text {
+  font-size: 1.2em;
+}
