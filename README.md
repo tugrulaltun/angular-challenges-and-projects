@@ -23,3 +23,4 @@ This repository is a curated collection of challenges and project ideas, each cr
 |12 | [customizable-css](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/customizable-css)|
 |13 | [decoupling-components](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/decoupling-components)|
 |14 | [typed-context-outlet](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/typed-context-outlet)|
+|15 | [utility-wrapper-pipe](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/utility-wrapper-pipe)|
