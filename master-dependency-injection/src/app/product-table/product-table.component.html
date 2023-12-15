@@ -1,0 +1,6 @@
+<table>
+  <tr *ngFor="let product of products">
+    <td>{{ product.name }}</td>
+    <td>{{ product.price | currencyFormat:product.currency }}</td>
+  </tr>
+</table>
