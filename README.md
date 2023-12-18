@@ -27,3 +27,4 @@ This repository is a curated collection of challenges and project ideas, each cr
 |16 | [master-dependency-injection](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/master-dependency-injection)|
 |17 | [rxjs-signal-interoperability](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/rxjs-signal-interoperability)|
 |18 | [default-vs-onpush](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/default-vs-onpush)|
+|19 | [memoization](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/memoization)|
