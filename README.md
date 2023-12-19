@@ -29,3 +29,4 @@ This repository is a curated collection of challenges and project ideas, each cr
 |18 | [default-vs-onpush](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/default-vs-onpush)|
 |19 | [memoization](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/memoization)|
 |20 | [ngfor-optimization](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/ngfor-optimization)|
+|21 | [optimize-change-detection](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/optimize-change-detection)|
