@@ -30,3 +30,4 @@ This repository is a curated collection of challenges and project ideas, each cr
 |19 | [memoization](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/memoization)|
 |20 | [ngfor-optimization](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/ngfor-optimization)|
 |21 | [optimize-change-detection](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/optimize-change-detection)|
+|22 | [optimize-big-list](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/optimize-big-list)|
