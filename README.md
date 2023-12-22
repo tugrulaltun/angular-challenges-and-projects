@@ -1,8 +1,12 @@
-# Angular Challenges & Projects
+## Angular Challenges & Projects
 
 ![headline](readme/headline.png)
 
 This repository is a curated collection of challenges and project ideas, each crafted to test and enhance your understanding of Angular, one of the most popular and powerful web application frameworks.
+
+## Thanks
+
+[https://github.com/tomalaforge/angular-challenges](https://github.com/tomalaforge/angular-challenges)
 
 ---
 ### Table of Contents
