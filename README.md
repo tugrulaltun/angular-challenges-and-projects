@@ -32,3 +32,4 @@ This repository is a curated collection of challenges and project ideas, each cr
 |21 | [optimize-change-detection](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/optimize-change-detection)|
 |22 | [optimize-big-list](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/optimize-big-list)|
 |23 | [web-workers](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/web-workers)|
+|24 | [control-value-accessor](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/control-value-accessor)|

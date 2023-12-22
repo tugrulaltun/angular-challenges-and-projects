@@ -1,0 +1,7 @@
+<p>rating-control works!</p>
+
+<div class="rating">
+  <span *ngFor="let star of [1, 2, 3, 4, 5]; let i = index" (click)="updateRating(i + 1)">
+    <i class="star" [class.filled]="i < +(rating || 0)">&#9733;</i>
+  </span>
+</div>

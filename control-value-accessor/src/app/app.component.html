@@ -1,0 +1,7 @@
+<form [formGroup]="feedbackForm">
+  <!-- other form fields -->
+
+  <app-rating-control formControlName="rating"></app-rating-control>
+
+  <button type="submit" [disabled]="!feedbackForm.valid">Submit</button>
+</form>
