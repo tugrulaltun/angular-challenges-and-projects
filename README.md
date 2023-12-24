@@ -34,6 +34,7 @@ This repository is a curated collection of challenges and project ideas, each cr
 |23 | [web-workers](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/web-workers)|
 |24 | [control-value-accessor](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/control-value-accessor)|
 |25 | [harness-testing](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/harness-testing)|
+|26 | [checkbox-testing](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/checkbox-testing)|
 
 ## Thanks
 
