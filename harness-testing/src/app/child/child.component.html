@@ -1,0 +1,8 @@
+<div>
+  <mat-form-field appearance="fill">
+    <mat-label>Enter your name</mat-label>
+    <input matInput [(ngModel)]="name">
+  </mat-form-field>
+  <button mat-raised-button color="primary" (click)="sayHello()">Say Hello</button>
+  <p *ngIf="message">{{ message }}</p>
+</div>
