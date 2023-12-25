@@ -1,0 +1,5 @@
+<input [(ngModel)]="searchQuery" (keyup.enter)="searchBooks()">
+<div *ngIf="book; else errorTpl">
+  <h2>{{ book.title }}</h2>
+</div>
+<ng-template #errorTpl><p>Book not found</p></ng-template>
