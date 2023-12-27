@@ -1,0 +1,4 @@
+<app-input-component (titleChange)="setTitle($event)"></app-input-component>
+<app-button-component (clickEvent)="validateTitle()"></app-button-component>
+<app-result-component *ngIf="isValid" [title]="title"></app-result-component>
+<app-error-component *ngIf="!isValid" [errorMessage]="'Invalid title'"></app-error-component>

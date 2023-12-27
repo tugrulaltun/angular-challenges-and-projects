@@ -36,6 +36,7 @@ This repository is a curated collection of challenges and project ideas, each cr
 |25 | [harness-testing](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/harness-testing)|
 |26 | [checkbox-testing](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/checkbox-testing)|
 |27 | [router-testing](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/router-testing)|
+|28 | [nested-components-testing](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/nested-components-testing)|
 
 ## Thanks
 
