@@ -38,6 +38,8 @@ This repository is a curated collection of challenges and project ideas, each cr
 |27 | [router-testing](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/router-testing)|
 |28 | [nested-components-testing](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/nested-components-testing)|
 |29 | [input-output-testing](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/input-output-testing)|
+|30 | [modal-testing](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/modal-testing)|
+|31 | [harness-creation-testing](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/harness-creation-testing)|
 
 ## Thanks
 
