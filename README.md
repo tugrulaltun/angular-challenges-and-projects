@@ -40,7 +40,8 @@ This repository is a curated collection of challenges and project ideas, each cr
 |29 | [input-output-testing](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/input-output-testing)|
 |30 | [modal-testing](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/modal-testing)|
 |31 | [harness-creation-testing](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/harness-creation-testing)|
-|31 | [todo-app-testing](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/todo-app-testing)|
+|32 | [todo-app-testing](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/todo-app-testing)|
+|33 | [rxjs-race-condition](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/rxjs-race-condition)|
 
 ## Thanks
 
