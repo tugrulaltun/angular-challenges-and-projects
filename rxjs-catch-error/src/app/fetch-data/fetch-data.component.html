@@ -1,0 +1,8 @@
+<div>
+  <input type="text" [(ngModel)]="dataType" placeholder="Enter data type (e.g., posts)">
+  <button (click)="fetchData()">Fetch</button>
+  <div *ngIf="error" class="error">{{ error }}</div>
+  <ul *ngIf="data.length > 0">
+    <li *ngFor="let item of data">{{ item | json }}</li>
+  </ul>
+</div>
