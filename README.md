@@ -44,6 +44,7 @@ This repository is a curated collection of challenges and project ideas, each cr
 |33 | [rxjs-race-condition](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/rxjs-race-condition)|
 |34 | [rxjs-catch-error](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/rxjs-catch-error)|
 |35 | [rxjs-high-order-operator](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/rxjs-high-order-operator)|
+|36 | [nx-custom-eslint-rule](https://github.com/tugrulaltun/angular-challenges-and-projects/tree/main/nx-custom-eslint-rule)|
 
 ## Thanks
 
