@@ -1,0 +1,4 @@
+<div *ngFor="let topic of topics">
+  <button (click)="deleteTopic(topic)">{{ topic }}</button>
+</div>
+<p>{{ deletionMessage }}</p>
